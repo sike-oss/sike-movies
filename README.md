@@ -30,4 +30,4 @@ Imran Arif Munge is a passionate Software and Web Developer with a keen interest
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/johndoe" target="_blank">John Doe</a> Email: johndoe@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/Imran" target="_blank">Imran munge </a> Email: insha20munge@gmail.com</p>
