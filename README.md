@@ -1,5 +1,7 @@
 # sike-movies
 movie web using html  and css 
+
+
 ## About Me
 
 Imran Arif Munge is a passionate Software and Web Developer with a keen interest in Artificial Intelligence and Machine Learning (AI/ML). With a strong foundation in full-stack development, Imran builds responsive, modern web applications and explores intelligent systems that bridge the gap between code and cognition. Constantly driven by innovation and curiosity, he is focused on creating impactful tech solutions that blend user experience with smart automation.
